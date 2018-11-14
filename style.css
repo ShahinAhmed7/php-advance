@@ -1,0 +1,19 @@
+.style {
+    text-align: left;
+    width: 900px;
+    background: #ddd;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.style h2 {
+    background: #999;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.body_text {
+    padding-left: 20px;
+}
